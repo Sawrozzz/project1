@@ -6,8 +6,12 @@
 - 📫 For any queries or any type of stuffs you want to discuss with me , you can contact me on following sites.
 - Email: adhikaribroo281@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=100027902503817
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="badges">
+  <a href="https://www.instagram.com/saw_rose001/">
+    <img src="https://logodix.com/logo/1049774.png" alt="Instagram Badge"/>
+  </a>
+  </div>
+
